@@ -4,3 +4,5 @@ Predict a videogame review based on a 6000 games dataset. Using various classifi
 ## How to execute the program:
 - Open the jupyter notebook in this repository;
 - Run the program.
+
+#### Project made by Pedro Sousa and Inês Cardoso
